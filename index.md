@@ -1,2 +1,2 @@
 
-[the Red Line](fedderw.github.io/red-line)
+[The Red Line Map](fedderw.github.io/red-line)
